@@ -8,8 +8,5 @@
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=DianaCarcea&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 300px;">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaCarcea&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="max-width: 300px;">
-    </a>
   </div>
 </div>
